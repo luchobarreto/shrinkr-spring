@@ -257,7 +257,7 @@ Once the application is running, you can interact with the API using tools like 
 
 |Param|value|
 |---|---|
-||null|
+|id|1|
 
 
 
@@ -268,6 +268,19 @@ Once the application is running, you can interact with the API using tools like 
 >```
 >{{URL}}/urls/:id
 >```
+### Body (**raw**)
+
+```json
+{
+    "url": ""
+}
+```
+
+### Query Params
+
+|Param|value|
+|---|---|
+|id|1|
 
 ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃ ⁃
 _________________________________________________
