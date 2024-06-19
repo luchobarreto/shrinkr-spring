@@ -53,7 +53,7 @@ The application is structured as follows:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/shrinkr.git
+    git clone https://github.com/luchobarreto/shrinkr-spring.git
     cd shrinkr
     ```
 
